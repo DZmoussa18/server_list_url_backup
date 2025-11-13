@@ -9,20 +9,6 @@
   },
   {
     "name": "United Kingdom",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWeUdTbkFVTFRQdUozRTd5STh1RmhJ@209.38.166.204:54441/?outline=1"
-  },
-  {
-  "name": "Netherlands",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#Netherlands%20#28608%20/%20OutlineKeys.com"
-},
-  {
-    "name": "Qatar OpenVPN",
-    "config_url": "https://raw.githubusercontent.com/Vpnqq2/securevpn/refs/heads/main/fr200.ovpn",
-    "username": "vpnbook",
-    "password": "it6b99a"
-  },
-  {
-  "name": "Japan",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan%20Datacamp"
-}
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dnNVQ0huakx0NTAxU1RZQUE2YlBI@68.183.44.62:46479/?outline=1"
+  }
 ]
