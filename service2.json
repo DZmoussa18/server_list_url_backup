@@ -2,17 +2,17 @@
   {
     "name": "GERMANY",
     "city": "Frankfurt",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWUVwZGJsMXhOYlFLVkF5QWJPNEJk@164.90.231.182:2099/?outline=1"
+    "config": "ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#Germany%20#33931%20/%20OutlineKeys.com"
   },
  {
     "name": "UNITED STATES",
    "city": "Clifton",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTBTZ3h6YjdiazBxaFBMZEJ6cmN4@165.227.124.249:65193/?outline=1"
+    "config": "ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw==@62.146.171.57:443#United States%20#35161%20/%20OutlineKeys.com"
   },
   {
     "name": "UNITED KINGDOM",
     "city": "Alnwick",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dnNVQ0huakx0NTAxU1RZQUE2YlBI@68.183.44.62:46479/?outline=1"
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United Kingdom%20#28836%20/%20OutlineKeys.com"
   },
   {
   "name": "NETHERLANDS",
@@ -22,26 +22,26 @@
    {
   "name": "SPAIN",
      "city": "Barcelona",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#Spain%20#25820%20/%20OutlineKeys.com"
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#Spain"
 },
   {
-  "name": "PORTUGAL",
-    "city": "Lisbon",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#Portugal%20#23597%20/%20OutlineKeys.com"
+  "name": "FRANCE",
+    "city": "paris",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#France"
 },
   {
-  "name": "RUSSIA",
-    "city": "Moscow",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#t.me/OutlineVpnOfficial | Free | 2751 | Russia"
+  "name": "UKRAINE",
+    "city": "Kyiv",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#Ukraine%20#34109%20/%20OutlineKeys.com"
 },
   {
   "name": "INDIA",
-    "city": "Bengaluru",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India%20#20949%20/%20OutlineKeys.com"
+    "city": "Mumbai",
+  "config": "ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#India%20#20945%20/%20OutlineKeys.com"
 },
    {
-  "name": "BRAZIL",
-     "city": "São Paulo",
-  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#Brazil%20#23599%20/%20OutlineKeys.com"
+  "name": "CANADA",
+     "city": "Vancouver",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp"
 }
 ]
